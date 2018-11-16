@@ -1,2 +1,2 @@
 # llec
-Next Generation Public Blockchain 
+Next Generation Public Blockchain 2
